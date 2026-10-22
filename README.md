@@ -1,5 +1,7 @@
 # Autonomous Research Agent (Tool-Using Agent)
 
+[![Diagram](https://img.shields.io/badge/gitdiagram-view%20architecture-blue)](https://gitdiagram.com/mehta-amit-codes/autonomous-research-agent)
+
 A minimal but complete implementation of the ReAct (Reason → Act → Observe) agent
 pattern using native tool/function calling.
 
